@@ -5,6 +5,7 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   actions: write
+  contents: write # Added this line to grant push permissions
 
 jobs:
   update-readme-with-blog:
