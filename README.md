@@ -15,7 +15,7 @@ Hello and welcome to my GitHub profile! I'm **Md. Abdul Mutalib**, a Computer Sc
 ---
 ## 📚 **Publications**
 - **Hand Gesture Recognition Systems: A Review of Methods, Datasets, and Emerging Trends**
-- Link: [Read on Academia.edu](https://www.academia.edu/120971726)
+- Link: [https://doi.org/10.5120/ijca2025924776](https://doi.org/10.5120/ijca2025924776)
 
 ---
 
@@ -24,7 +24,7 @@ Hello and welcome to my GitHub profile! I'm **Md. Abdul Mutalib**, a Computer Sc
 ### 1. **Using Machine Learning Models to Identify Pneumonia from Chest X-ray Images** (2023)
    - **Authors**: Md Abdul Mutalib, Kopil Das, Shahriar Hussain
    - **Description**: A study exploring the use of machine learning models to detect pneumonia from chest X-ray images.
-   - **Link**: [https://doi.org/10.5120/ijca2025924776](https://doi.org/10.5120/ijca2025924776)
+   - **Link**:[Read on Academia.edu](https://www.academia.edu/120971726)
 
 
 <!-- ---
