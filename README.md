@@ -55,7 +55,7 @@ Hello and welcome to my GitHub profile! I'm **Md. Abdul Mutalib**, a Computer Sc
 
 <!-- BLOG-POST-LIST:START -->
 - [Future Blog Post](https://mutalibcs.github.io/posts/2012/08/blog-post-4/)
-- [October 29, 2024](https://www.youtube.com/shorts/5QnhO6ONaW0)
+- [October 29, 2024](https://www.youtube.com/watch?v=5QnhO6ONaW0)
 - [ICRCS-2024: A Remarkable Experience](https://mutalibcs.github.io/posts/2025/02/icrcs-2024-remarkable-experience-computer-science-research/)
 - [My 3ZERO Leadership Challenge Experience: Empowering Gen Z for a Better Future](https://mutalibcs.github.io/posts/2025/02/my-3zero-leadership-challenge-experience-empowering-gen-z-for-a-better-future/)
 - [Markdown Guide: Learn Markdown Syntax and Features](https://mutalibcs.github.io/posts/2025/01/markdown-guide/)
