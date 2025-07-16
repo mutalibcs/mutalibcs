@@ -1,20 +1,20 @@
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  actions: write
-  contents: write # Added this line to grant push permissions
+# name: Latest blog post workflow
+# on:
+#   schedule: # Run workflow automatically
+#     - cron: '0 * * * *' # Runs every hour, on the hour
+#   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+# permissions:
+#   actions: write
+#   contents: write # Added this line to grant push permissions
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBzPgLe7IdN158VRnXwEWfQ, https://dev.to/feed/mutalibcs,https://mutalibcs.github.io/feed.xml"
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+#       - name: Pull in dev.to posts
+#         uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBzPgLe7IdN158VRnXwEWfQ, https://dev.to/feed/mutalibcs,https://mutalibcs.github.io/feed.xml"
